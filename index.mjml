@@ -1,0 +1,381 @@
+<mjml>
+  <mj-head>
+    <mj-title>Aftersales Newsletter #2</mj-title>
+    <mj-preview>Dear importers, We have well and truly said goodbye to summer, the trees have turned earthy tones, and parks and gardens are full of fallen leaves. </mj-preview>
+
+    <mj-attributes>
+      <mj-text font-family="Skoda Next, Arial" padding="0" font-size="15px" line-height="140%" color="#4a4a4a" />
+      <mj-text line-height="140%" />
+      <mj-section padding="0" />
+      <mj-wrapper padding="0" />
+      <mj-image padding="0" />
+      <mj-class name="headline" font-size="20px" line-height="120%" font-weight="bold" font-family="Skoda Next, Arial" color="#000000 " />
+      <mj-class name="body-text" font-size="16px" line-height="140%" font-family="Skoda Next, Arial" padding="0" color="#4a4a4a" />
+      <mj-class name="link" font-size="15px" color="#4CA82C" font-family="Skoda Next, Arial" />
+      <mj-class name="section" padding-left="40px" padding-right="40px" />
+    </mj-attributes>
+    <mj-font name="Skoda Next, Arial" />
+
+    <mj-style inline="inline">
+      .link {
+        color: #4CA82C;
+      }
+    </mj-style>
+
+    <mj-style>
+      @media (max-width:610px) {
+      .padding-mobile > table > tbody > tr > td {
+      padding-left: 25px !important;
+      padding-right: 25px !important;
+      }
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body>
+    <mj-container>
+      <mj-wrapper>
+
+        <!-- Header -->
+        <mj-section mj-class="section" padding-top="10px" padding-bottom="17px">
+          <mj-column>
+            <mj-text align="center" font-size="13px" font-family="Skoda Next, Arial">If you have trouble viewing this
+              document, please click <a href="{{webversion}}" class="link" target="_blank"><span style="color: inherit;">here</span></a></mj-text>
+          </mj-column>
+        </mj-section>
+
+        <!-- Logos -->
+        <mj-section padding-right="25px" padding-left="25px" padding-bottom="24px" padding-top="24px">
+          <mj-group>
+            <mj-column vertical-align="middle">
+              <mj-image src="https://cdn-smartemailing.cz/262571/media/logos/skoda.png?_t=1626956648" href="https://skoda-auto.com" width="113" align="left" alt="ŠKODA AUTO logo" target="_blank"></mj-image>
+            </mj-column>
+            <mj-column vertical-align="middle">
+              <mj-image src="https://cdn-smartemailing.cz/262571/media/logos/simply-clever.png?_t=1626956495" width="66" align="right" alt="SIMPLY CLEVER"></mj-image>
+            </mj-column>
+          </mj-group>
+        </mj-section>
+
+        <!-- Header -->
+        <mj-section padding-bottom="17px">
+          <mj-column>
+            <mj-image src="https://cdn-smartemailing.cz/262571/media/after-sales/october/header.jpg?_t=1633683808" width="600" alt="HEADER"></mj-image>
+            <mj-text font-size="14px" align="right" padding-right="24px">OCTOBER 2021</mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section mj-class="section" padding-bottom="38px">
+          <mj-column>
+            <mj-text mj-class="body-text" font-weight="700" padding-bottom="10px">
+              Dear importers,
+            </mj-text>
+
+            <mj-text mj-class="body-text" padding-bottom="10px">
+              We have well and truly said goodbye to summer, the trees have turned earthy tones, and parks and gardens are full of fallen leaves. Over the summer, we collected heaps of After Sales news that may come in handy for you this autumn. We’ll also tell you what’s coming up and what you can expect in the months ahead. There’s a lot to look forward to, and we are confident that there’s something for everyone and that the materials we have drawn up will make it easier for you to prepare and enrich your communication campaigns!
+            </mj-text>
+
+            <mj-text mj-class="body-text" font-weight="700">
+              Your After Sales Team
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <!-- Header_02 -->
+        <mj-section mj-class="section" padding-bottom="40px">
+          <mj-column>
+            <mj-image src="https://cdn-smartemailing.cz/262571/media/after-sales/october/marketing.jpg?_t=1633683809" width="552" alt="Marketing news"></mj-image>
+          </mj-column>
+        </mj-section>
+
+        <!-- Text + button  -->
+        <mj-section mj-class="section">
+          <mj-column>
+            <mj-text mj-class="headline" padding-bottom="28px">KODIAQ ACCESSORIES CATALOGUE</mj-text>
+          </mj-column>
+
+          <mj-column>
+            <mj-text align="right" padding-bottom="23px">
+              <mj-raw>
+                <div>
+                  <!--[if mso]>
+                    <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://milkyway.skoda-auto.com/ListForms/AssetDispForm.aspx?List=30444cc4%2Dd38b%2D4eac%2Da55e%2D47808e56ae97&ID=60447&Web=29d48d77%2D2bd1%2D46e5%2Dafdf%2D3cc54de16d55" style="height:44px;v-text-anchor:middle;width:200px;" arcsize="260%" stroke="f" fillcolor="#4CA72E">
+                      <w:anchorlock/>
+                      <center>
+                    <![endif]-->
+                  <a href="https://milkyway.skoda-auto.com/ListForms/AssetDispForm.aspx?List=30444cc4%2Dd38b%2D4eac%2Da55e%2D47808e56ae97&ID=60447&Web=29d48d77%2D2bd1%2D46e5%2Dafdf%2D3cc54de16d55" target="_blank" style="background-color:#4CA72E;border-radius:91px;color:#ffffff;display:inline-block;font-family:Skoda Next, Arial;font-size:13px;font-weight:bold;line-height:44px;text-align:center;text-decoration:none;width:200px;-webkit-text-size-adjust:none;">DOWNLOAD CATALOGUE</a>
+                  <!--[if mso]>
+                      </center>
+                    </v:roundrect>
+                  <![endif]-->
+                </div>
+              </mj-raw>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section mj-class="section" padding-bottom="24px">
+          <mj-column>
+            <mj-text mj-class="body-text">
+              As the revised KODIAQ makes its entry on the Czech market, we have published the KODIAQ Accessories Catalogue open data on MilkyWay. Feel free to adapt the catalogue to your market and customers’ needs. Over 60 pages long, it covers the wide-ranging ŠKODA Genuine Accessories that the KODIAQ has to offer. These are accompanied by appealing summer and winter photos, which may come in handy in the preparation of your marketing activities.
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <!-- Row 1 -->
+        <mj-section mj-class="section" padding-top="38px">
+          <mj-column>
+            <mj-image src="https://cdn-smartemailing.cz/262571/media/after-sales/october/ppc-pilot.jpg?_t=1633683813" width="264" padding-bottom="43px" padding-right="24px" alt="Marketing news"></mj-image>
+            <mj-text mj-class="headline" padding-bottom="22px" padding-right="24px">
+              PPC PILOT<br /> CAMPAIGN
+            </mj-text>
+
+            <mj-text mj-class="body-text" padding-right="24px">
+              We recently ran a two-month PPC campaign pilot in Sweden to boost the online Service Booking tool’s traffic. The campaign results were even better than we expected and we are keen to share them with you. <br /> <br />
+              If you are interested in the results, let contact us at&nbsp;<a href="mailto:aftersales.marketing@skoda-auto.cz" class="link" underline="none" style="text-decoration: none;" target="_blank"><span style="color: inherit; text-decoration: none; margin-bottom: 37px">aftersales.marketing@skoda-auto.cz</span></a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column>
+            <mj-image src="https://cdn-smartemailing.cz/262571/media/after-sales/october/spray-paints.jpg?_t=1633961941" width="264" padding-bottom="43px" padding-right="24px" alt="Marketing news"></mj-image>
+            <mj-text mj-class="headline" padding-bottom="22px" padding-right="24px">
+              SPRAY PAINTS<br /> OVERVIEW <br />
+            </mj-text>
+
+            <mj-text mj-class="body-text" padding-right="24px" padding-bottom="20px">
+              Have you noticed the new colours introduced with the all-new FABIA and the new KODIAQ? We have drawn up an updated list of spray paints and touch-up pencils to include the new colours Phoenix Orange and Graphite Grey. This list is available in English, German, Russian, Czech, and Slovak, with two different introductory texts.
+            </mj-text>
+
+            <mj-text padding-bottom="34px" mj-class="body-text" padding-right="24px">
+              <a href="https://milkyway.skoda-auto.com/ListForms/AssetDispForm.aspx?List=30444cc4%2Dd38b%2D4eac%2Da55e%2D47808e56ae97&ID=61500&Web=29d48d77%2D2bd1%2D46e5%2Dafdf%2D3cc54de16d55" class="link" style="text-decoration: none;" target="_blank"><span style="color: inherit; text-decoration: none;">Go to MilkyWay </span></a>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <!-- Row 2 -->
+        <mj-section mj-class="section">
+          <mj-column>
+            <mj-image src="https://cdn-smartemailing.cz/262571/media/after-sales/october/accessories-fitting.jpg?_t=1633683811" width="264" padding-bottom="43px" padding-right="24px" alt="Marketing news"></mj-image>
+            <mj-text mj-class="headline" padding-bottom="22px" padding-right="24px">
+              ACCESSORIES FITTING TIMES OVERVIEW
+            </mj-text>
+
+            <mj-text mj-class="body-text" padding-right="24px" padding-bottom="20px">
+              The ŠKODA Genuine Accessories fitting times overview, providing data on over 1,200 unique products across 13 ŠKODA models, is ready for use. You can either use the traditional Excel format or try out our new form of interactive PDF handbook, which includes a navigation menu for easier model-by-model browsing.
+            </mj-text>
+
+            <mj-text padding-bottom="34px" mj-class="body-text" padding-right="24px">
+              <a href="https://milkyway.skoda-auto.com/ListForms/PackageDispForm.aspx?List=760e834d%2D6ada%2D4d2b%2Da018%2D5ca2aaafcd07&ID=6018&Web=29d48d77%2D2bd1%2D46e5%2Dafdf%2D3cc54de16d55" class="link" style="text-decoration: none;" target="_blank"><span style="color: inherit; text-decoration: none;">Go to MilkyWay</span></a>
+            </mj-text>
+          </mj-column>
+
+          <mj-column>
+            <mj-image src="https://cdn-smartemailing.cz/262571/media/after-sales/october/social-media.jpg?_t=1633683816" width="264" padding-bottom="43px" padding-right="24px" alt="Marketing news"></mj-image>
+            <mj-text mj-class="headline" padding-bottom="22px" padding-right="24px">
+              SOCIAL MEDIA SERVICE CAMPAIGN
+            </mj-text>
+
+            <mj-text mj-class="body-text" padding-right="24px">
+              Wondering how best to entice customers to the service centre for car maintenance before winter sets in? Harness the power of social media. We have prepared autumn service campaigns in the right formats, ready for you to tailor to your customers and your market’s needs. The source data can be found on MilkyWay.
+            </mj-text>
+
+            <mj-text padding-bottom="34px" mj-class="body-text" padding-right="24px" padding-top="20px">
+              <a href="https://milkyway.skoda-auto.com/Lists/Assets/DispForm.aspx?ID=63561" class="link" style="text-decoration: none;" target="_blank"><span style="color: inherit; text-decoration: none;">Go to MilkyWay</span></a>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <!-- Row 3 -->
+        <mj-section mj-class="section">
+          <mj-column>
+            <mj-image src="https://cdn-smartemailing.cz/262571/media/after-sales/october/sales-info.jpg?_t=1633683810" width="264" padding-bottom="43px" padding-right="24px" alt="Marketing news">
+            </mj-image>
+            <mj-text mj-class="headline" padding-bottom="22px" padding-right="24px">
+              SALES<br /> INFORMATION
+            </mj-text>
+            <mj-text mj-class="body-text" padding-right="24px" padding-bottom="34px">
+              All Product Sheets for the all-new FABIA are available in the PLIM app. PLIM also contains a sales information letter and offers lots of other information about our accessories. If you don’t have access to PLIM, you can easily request it on the B2B Portal.
+            </mj-text>
+          </mj-column>
+
+          <mj-column>
+            <mj-image src="https://cdn-smartemailing.cz/262571/media/after-sales/october/launch.jpg?_t=1633683811" width="264" padding-bottom="43px" padding-right="24px" alt="Marketing news"></mj-image>
+            <mj-text mj-class="headline" padding-bottom="22px" padding-right="24px">
+              LAUNCH OF CAR <br />ACCESS
+            </mj-text>
+
+            <mj-text mj-class="body-text" padding-right="24px">
+              Car Access, enabling ŠKODA customers to have merchandise delivered directly to their car via selected partners, was officially launched on the Czech market in September. Further details can be found on the website.
+            </mj-text>
+
+            <mj-text padding-bottom="34px" mj-class="body-text" padding-right="24px" padding-top="20px">
+              <a href="https://www.skoda-auto.com/connectivity/car-access" class="link" style="text-decoration: none;" target="_blank"><span style="color: inherit; text-decoration: none;">Go to skoda-auto.com</span></a>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <!-- Coming up -->
+        <mj-section mj-class="section" padding-bottom="15px">
+          <mj-column>
+            <mj-image src="https://cdn-smartemailing.cz/262571/media/after-sales/march2021/subheader-coming-up-1104.png?_t=1615813800" width="552" alt="Coming up"></mj-image>
+          </mj-column>
+        </mj-section>
+
+        <!-- Row 1 -->
+        <mj-section mj-class="section" padding-top="38px">
+          <mj-column>
+            <mj-image src="https://cdn-smartemailing.cz/262571/media/after-sales/october/assembly-manual.jpg?_t=1633988527" width="264" padding-bottom="43px" padding-right="24px" alt="Coming up"></mj-image>
+            <mj-text mj-class="headline" padding-bottom="22px" padding-right="24px">
+              ASSEMBLY MANUAL VIDEOS
+            </mj-text>
+
+            <mj-text mj-class="body-text" padding-right="24px" padding-bottom="34px">
+              We will soon be broadening the portfolio of video manuals on the assembly of accessories. These videos help customers to install ŠKODA Genuine Accessories in their cars easily and correctly. The new videos will explain how to install the foldable boot protection or slide-out ski rack on the roof of the revised ŠKODA KAROQ and the sunshade for the panoramic roof on the all-new FABIA. </mj-text>
+          </mj-column>
+
+          <mj-column>
+            <mj-image src="https://cdn-smartemailing.cz/262571/media/after-sales/october/new-guideline.jpg?_t=1633683810" width="264" padding-bottom="43px" padding-right="24px" alt="Coming up"></mj-image>
+            <mj-text mj-class="headline" padding-bottom="22px" padding-right="24px">
+              NEW GUIDELINE<br /> FOR EXCHANGE PARTS
+            </mj-text>
+
+            <mj-text mj-class="body-text" padding-right="24px" padding-bottom="34px">
+              We will be updating the exchange parts manuals and logistics manuals. In the manuals, you will find new information (about new transport rules, new conditions for the return and acceptance of new parts, and the possibility of the retirement of certain product groups based on VW decisions), as well as common processes and instructions that you are familiar with from previous editions.
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <!-- Row 2 -->
+        <mj-section mj-class="section">
+          <mj-column>
+            <mj-image src="https://cdn-smartemailing.cz/262571/media/after-sales/october/tour-de-france.jpg?_t=1633683816" width="264" padding-bottom="43px" padding-right="24px" alt="Coming up"></mj-image>
+            <mj-text mj-class="headline" padding-bottom="22px" padding-right="24px">
+              2022 TOUR DE FRANCE COMPETITION
+            </mj-text>
+
+            <mj-text mj-class="body-text" padding-right="24px" padding-bottom="34px">
+              We are preparing – as we do every year – a competition for tickets to the next Tour de France. The rules for this year’s competition have been revised, but the reward of an unforgettable experience remains.
+              The winners will enjoy a weekend stay at luxury French resorts, a pre-race ride with a VIP driver, a meeting with a VIP, a helicopter flight over the peloton and many other experiences.
+            </mj-text>
+          </mj-column>
+
+          <mj-column>
+            <mj-image src="https://cdn-smartemailing.cz/262571/media/after-sales/october/accessories-guide.jpg?_t=1633683814" width="264" padding-bottom="43px" padding-right="24px" alt="Coming up"></mj-image>
+            <mj-text mj-class="headline" padding-bottom="22px" padding-right="24px">
+              ACCESSORIES GUIDEBOOK
+            </mj-text>
+
+            <mj-text mj-class="body-text" padding-right="24px" padding-bottom="34px">
+              We are preparing a brand new catalogue – a guide to the ŠKODA Genuine Accessories collection available for most ŠKODA models, including selling points and lifestyle images. As usual, the catalogue will be adaptable for your market. We will keep you posted on its availability. </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section>
+          <mj-column>
+            <mj-spacer height="25px" />
+          </mj-column>
+        </mj-section>
+
+        <!-- More information Buttons -->
+        <mj-section background-color="#F8F8F8" padding-top="32px" padding-bottom="15px">
+          <mj-column>
+            <mj-text mj-class="body-text" font-weight="700" align="center">
+              For more information, please visit:
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#F8F8F8" padding-bottom="12px">
+          <mj-column width="255px">
+            <mj-text align="center" padding-bottom="15px">
+              <mj-raw>
+                <div>
+                  <!--[if mso]>
+                    <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://milkyway.skoda-auto.com/aftersales/accessories" style="height:40px;v-text-anchor:middle;width:248px;" arcsize="228%" stroke="f" fillcolor="#4CA72E">
+                      <w:anchorlock/>
+                      <center>
+                    <![endif]-->
+                  <a href="https://milkyway.skoda-auto.com/aftersales/accessories" target="_blank" style="background-color:#4CA72E;border-radius:91px;color:#ffffff;display:inline-block;font-family:Skoda Next, Arial;font-size:12px;font-weight:bold;line-height:44px;text-align:center;text-decoration:none;width:248px;-webkit-text-size-adjust:none;">ŠKODA GENUINE ACCESSORIES</a>
+                  <!--[if mso]>
+                      </center>
+                    </v:roundrect>
+                  <![endif]-->
+                </div>
+              </mj-raw>
+            </mj-text>
+          </mj-column>
+
+          <mj-column width="265px">
+            <mj-text align="center">
+              <mj-raw>
+                <div>
+                  <!--[if mso]>
+                    <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://milkyway.skoda-auto.com/aftersales/parts-service" style="height:44px;v-text-anchor:middle;width:260px;" arcsize="228%" stroke="f" fillcolor="#4CA72E">
+                      <w:anchorlock/>
+                      <center>
+                    <![endif]-->
+                  <a href="https://milkyway.skoda-auto.com/aftersales/parts-service" target="_blank" style="background-color:#4CA72E;border-radius:91px;color:#ffffff;display:inline-block;font-family:Skoda Next, Arial;font-size:12px;font-weight:bold;line-height:44px;text-decoration:none;width:260px;-webkit-text-size-adjust:none;">ŠKODA GENUINE PARTS & SERVICES</a>
+                  <!--[if mso]>
+                      </center>
+                    </v:roundrect>
+                  <![endif]-->
+                </div>
+              </mj-raw>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#F8F8F8" padding-bottom="23px">
+          <mj-column>
+            <mj-text mj-class="body-text" align="center">
+              Or e-mail us at: <a href="mailto:aftersales.marketing@skoda-auto.cz" class="link" underline="none" style="text-decoration: none;" target="_blank"><span style="color: inherit; text-decoration: none; margin-bottom: 37px">aftersales.marketing@skoda-auto.cz</span></a>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+        <!-- footer -->
+        <mj-section mj-class="section" padding-top="34px" padding-bottom="20px" background-color="#4A4A4A" css-class="padding-mobile">
+          <mj-column padding-left="20px" padding-left="20px">
+            <mj-text color="#FFF" font-size="14px" line-height="120%" font-family="Skoda Next, Arial" padding-bottom="15px" css-class="padding-mobile">
+              <b>ŠKODA AUTO a.s.</b><br />
+              tř. Václava Klementa 869<br />
+              293 01 Mladá Boleslav<br />
+              Czech Republic<br />
+              <a href="https://www.skoda-auto.com/" target="_blank" style="text-decoration: none"><span style="color: #FFF; text-decoration: none" target="_blank">www.skoda-auto.com</span></a>
+            </mj-text>
+          </mj-column>
+
+          </mj-column>
+          <mj-column vertical-align="top" padding-right="20px">
+            <mj-raw>
+              <table style="width: 100%">
+                <tr style="vertical-align: top;">
+                  <td style="text-align: right; text-decoration: none" text-docoration="none">
+                    <a href="https://twitter.com/skodaautonews/" text-docoration="none" style="text-decoration: none" target="_blank">
+                      <img src="https://cdn-smartemailing.cz/262571/media/logos/tw-nov21.png?_t=1637780089" width="43" alt="Twitter">
+                    </a>
+                    <a href="https://www.facebook.com/skodaglobal/" text-docoration="none" style="text-decoration: none" target="_blank">
+                      <img src="https://cdn-smartemailing.cz/262571/media/logos/fb-nov21.png?_t=1637780088" width="33" alt="Facebook">
+                    </a>
+                    <a href="https://www.youtube.com/channel/UCjG24cC7xIEkVtxKdhHDwtg" text-docoration="none" style="text-decoration: none" target="_blank">
+                      <img src="https://cdn-smartemailing.cz/262571/media/logos/yt-nov21.png?_t=1637780090" width="45" alt="YouTube">
+                    </a>
+                    <a href="https://www.instagram.com/skodagram/" text-docoration="none" style="text-decoration: none" target="_blank">
+                      <img src="https://cdn-smartemailing.cz/262571/media/logos/ig-nov21.png?_t=1637780089" width="46" alt="Instagram">
+                    </a>
+                  </td>
+                </tr>
+              </table>
+            </mj-raw>
+          </mj-column>
+        </mj-section>
+
+        <mj-section>
+          <mj-column>
+            <mj-spacer height="15px" />
+          </mj-column>
+        </mj-section>
+
+      </mj-wrapper>
+    </mj-container>
+  </mj-body>
+</mjml>
